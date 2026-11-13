@@ -11,7 +11,7 @@
 - Mã đề (A/B/C): Đề B | Task: DAY05-MOT17-09-B-2A202603318
 - Email: thanhnguyensonjqk@gmail.com
 - Link repository: https://github.com/ThanhSon2903/K5-L2-DAY05-NguyenThanhSon-2A202603318-MOTTracking(Nếu mà các anh Lab Coach không bấm vào được link github này thì mấy a thêm dấu chấm vào sau chữ `https://github.com/ThanhSon2903/K5-L2-DAY05-NguyenThanhSon-2A202603318-MOTTracking.` như này giúp em nhé tại em lỡ submit có thêm dấu chấm) 
-- Giờ bắt đầu: 16h
+- Giờ bắt đầu: 16h30
 - Giờ kết thúc: 18h30
 
 ## 1. Xem trước đoạn video (CP0)
